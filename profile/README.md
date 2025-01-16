@@ -1,9 +1,17 @@
 # DARP - Decentralized Agent and Resource Protocol
 
-
+<p align="center">
+  <img src="assets/darp.png" alt="MCP Logo" />
+</p>
 
 <p align="center">
-  <img src="https://docs.highkey.ai/~gitbook/image?url=https%3A%2F%2F1982969873-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FyAST0vZFx8tamUObd4nr%252Fsites%252Fsite_vKsR4%252Ficon%252FW0euWj3DzG4ulvb0U6oU%252FKey.png%3Falt%3Dmedia%26token%3D1bda38b8-922c-45f0-a568-13e036baac05&width=32&dpr=1&quality=100&sign=8f1bd6d3&sv=2" width="200" alt="DARP Logo" />
+  <strong>A protocol for seamless integration between LLM applications and external data sources</strong>
+</p>
+
+<p align="center">
+  <a href="https://highkey.ai">Website</a> |
+  <a href="https://docs.highkey.ai/">Documentation</a> |
+  <a href="https://x.com/highkey_ai">Twitter</a>
 </p>
 
 
