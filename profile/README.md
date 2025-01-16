@@ -24,7 +24,7 @@ DARP (Decentralized Agent and Resource Protocol) is a groundbreaking protocol bu
 ✨ Special thanks to Anthropic and the community for the foundational MCP protocol that made DARP possible.
 
 <p align="center">
-  <img src="https://docs.highkey.ai/~gitbook/image?url=https%3A%2F%2F4103679112-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FzNVuFDAMBwjqJzx3lDwJ%252Fuploads%252FtnedRTRnadWZ34DGQ2NI%252FHTTP%2520vs%2520DARP.png%3Falt%3Dmedia%26token%3D29c13eb5-7aff-4497-b331-d90a5e9c0bac&width=768&dpr=4&quality=100&sign=49603232&sv=2" width="500" alt="DARP Thought" />
+  <img src="assets/HTTPvsDARP.png" alt="HTTP vs DARP" />
 </p>
 
 ## 🚀 Getting Started
