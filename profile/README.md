@@ -37,7 +37,7 @@ Special thanks to Anthropic and the community for the foundational MCP protocol 
 
 -  [Twitter/X](https://x.com/highkey_ai) 
 
-## DARP Server Project 
+## DARP Server Projects 
 - [WalletAnalysis_DarpServer](https://github.com/DARPAI/WalletAnalysis_DarpServer) - Analysis Coin DARP Server
 - [Boltrade_DarpServer](https://github.com/DARPAI/Boltrade_DarpServer) - BolTrade DARP Server
 - [Coinmarketcap_DarpServer](https://github.com/DARPAI/Coinmarketcap_DarpServer) - CoinMarketCap DARP Server
