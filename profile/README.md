@@ -1,4 +1,4 @@
-# DARP - Decentralized Agent and Resource Protocol 🌐
+# DARP - Decentralized Agent and Resource Protocol 
 
 <p align="center">
   <img src="assets/DARP.png" alt="DARP Logo" />
