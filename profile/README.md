@@ -55,4 +55,4 @@ We welcome contributions of all kinds! Whether you want to fix bugs, improve doc
 Have questions? Join the discussion in our [community forum](https://github.com/orgs/DARPAI/discussions).
 ## About
 
-DARP is an open source project that extends the Model Context Protocol created by [Anthropic, PBC.](https://anthropic.com). 
+DARP is an open source project that extends the Model Context Protocol created by [HighKey](https://highkey.ai). 
