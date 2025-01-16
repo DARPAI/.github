@@ -1,7 +1,7 @@
 # DARP - Decentralized Agent and Resource Protocol
 
 <p align="center">
-  <img src="assets/darp.png" alt="DARP Logo" />
+  <img src="assets/DARP.png" alt="DARP Logo" />
 </p>
 
 <p align="center">
