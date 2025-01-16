@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://highkey.ai">Website</a> |
   <a href="https://docs.highkey.ai/">Documentation</a> |
-  <a href="https://x.com/highkey_ai">Twitter</a>
+  <a href="https://x.com/highkey_ai">Twitter/X</a>
 </p>
 
 
