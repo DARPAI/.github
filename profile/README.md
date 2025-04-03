@@ -5,45 +5,29 @@
 </p>
 
 <p align="center">
-  <strong>🚀 A Web3-native protocol revolutionizing AI agent communication and blockchain data access, powered by MCP</strong>
+  <strong>🚀 Extend MCP to make it the tool to build complex agent systems</strong>
 </p>
-
-<p align="center">
-  <a href="https://highkey.ai">🌍 Website</a> |
-  <a href="https://docs.highkey.ai/">📚 Documentation</a> |
-  <a href="https://x.com/highkey_ai">🐦 Twitter/X</a>
-</p>
-
 
 ## 🌟 Introduction
 
 ### 🤔 What is DARP?
 
-DARP (Decentralized Agent and Resource Protocol) is a groundbreaking protocol built upon Anthropic's innovative Model Context Protocol (MCP). It seamlessly bridges the gap between AI and Web3, establishing a standardized framework for data access and agent communication within the blockchain ecosystem.
+DARP (Decentralized Agent and Resource Protocol) is project to evolve agentic LLM systems into self-organized AI companies capabale of much more than a single LLM even with a lot of tools. One of the core parts of this effort is extensions to MCP protocol that make it easy to implement such systems.
 
 ✨ Special thanks to Anthropic and the community for the foundational MCP protocol that made DARP possible.
 
-<p align="center">
-  <img src="assets/HTTPvsDARP.png" alt="HTTP vs DARP" />
-</p>
+This project is in early stages of development.
 
-## 🚀 Getting Started
+## 🛠️ Features
 
--  [🌍 Website](https://highkey.ai)  
+- DARP search engine: a registry of MCP server deployments with dedicated search
+- DARP routing MCP tool: one endpoint to solve any problem that can be solved using the search engine.
 
--  [📚 Documentation](https://docs.highkey.ai) 
-
--  [🐦 Twitter/X](https://x.com/highkey_ai) 
-
-## 🛠️ DARP Server Projects 
-- [💼 WalletAnalysis_DarpServer](https://github.com/DARPAI/WalletAnalysis_DarpServer) - Comprehensive wallet analysis engine
-- [📊 Boltrade_DarpServer](https://github.com/DARPAI/Boltrade_DarpServer) - Advanced trading analytics
-- [📈 Coinmarketcap_DarpServer](https://github.com/DARPAI/Coinmarketcap_DarpServer) - Real-time market data integration
-- [⛓️ MultiChains_DarpServer](https://github.com/DARPAI/MultiChains_DarpServer) - Cross-chain data orchestration
-- [🔍 Search1api_DarpServer](https://github.com/DARPAI/Search1api_DarpServer) - Enhanced blockchain search capabilities
-- [📡 Solscan_DarpServer](https://github.com/DARPAI/Solscan_DarpServer) - Solana ecosystem analytics
-
- 🔮 More innovative DARP Servers coming soon...
+## 🛠️ Coming soon
+- Crawler for MCP servers based on [.well-known/mcp.json](https://github.com/orgs/modelcontextprotocol/discussions/84)
+- Scheduler for agentic systems
+- Updates to the MCP & reference python implementation
+- Contributions to the MCP protocol
 
 ## 🤝 Contributing
 
