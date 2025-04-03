@@ -8,6 +8,10 @@
   <strong>🚀 Extend MCP to make it the tool to build complex agent systems</strong>
 </p>
 
+<p align="center">
+  <a href="https://x.com/DARP_AI">🐦 Twitter/X</a>
+</p>
+
 ## 🌟 Introduction
 
 ### 🤔 What is DARP?
