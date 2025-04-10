@@ -1,5 +1,10 @@
 # DARP - Decentralized Agent and Resource Protocol 
 
+
+<p align="center">
+   <img src="assets/logo.jpg" alt="DARP Logo" />
+ </p>
+ 
 <p align="center">
   <strong>🚀 Extend MCP to make it the tool to build complex agent systems</strong>
 </p>
