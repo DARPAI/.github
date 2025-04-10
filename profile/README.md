@@ -41,4 +41,4 @@ We enthusiastically welcome contributions of all kinds! Whether you're fixing bu
 
 ## ℹ️ About
 
-DARP is an open-source project created by [HighKey](https://highkey.ai), extending the Model Context Protocol to empower the next generation of Web3 applications. 
+DARP is an open-source project created by [HighKey](https://highkey.ai), extending the Model Context Protocol to empower the AI Internet. 
