@@ -39,7 +39,3 @@ This project is in early stages of development.
 We enthusiastically welcome contributions of all kinds! Whether you're fixing bugs 🐛, improving documentation 📝, or proposing exciting new features ✨.
 
 💭 Have questions? Join the vibrant discussion in our [community forum](https://github.com/orgs/DARPAI/discussions).
-
-## ℹ️ About
-
-DARP is an open-source project created by [HighKey](https://highkey.ai), extending Model Context Protocol to empower the AI Internet. 
